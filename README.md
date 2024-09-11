@@ -6,7 +6,7 @@ A collection of ebooks and tutorials for CS fundamentals
 
 * [Introduction to Algorithms - CLRS](<content/Introduction to algorithms.pdf>)
 * [Solutions Manual to CLRS](<content/Instructor's Manual.pdf>)
-* [Grokking Algorithms](<content/Grokking Algorithms.pdf>)
+* [Grokking Algorithms](<content/ Grokking_algorithms.pdf>)
 
 ## Discrete Mathematics
 
