@@ -1,6 +1,8 @@
 # CS_fundamentals
 
-A collection of ebooks and tutorials for CS fundamentals 
+![cs_fundamentals](content/header_logo.jpg)
+
+collection of resources for Computer Science fundamentals
 
 ## Data Structures and Algorithms
 
