@@ -2,7 +2,7 @@
 
 ![cs_fundamentals](content/header_logo.jpg)
 
-collection of resources for Computer Science fundamentals
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 ## Data Structures and Algorithms
 
